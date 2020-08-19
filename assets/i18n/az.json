@@ -1,0 +1,16 @@
+{
+  "input": {
+    "email": "E-poçt və ya telefon nömrəsi",
+    "password": "Şifrə"
+  },
+  "button": {
+    "login": "Daxil ol",
+    "signup": "Yeni hesab yarat",
+    "forgottenPassword": "Hesabını unutmusan?",
+    "signInFirst": "Davam etmək üçün hesaba daxil olmalısan."
+  },
+  "text": {
+    "or": "və ya",
+    "title": "Facebooka daxil ol"
+  }
+}

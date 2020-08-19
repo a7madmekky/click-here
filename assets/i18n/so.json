@@ -1,0 +1,16 @@
+{
+  "input": {
+    "email": "Iimayl ama nambarka teleefoonka",
+    "password": "Furaha"
+  },
+  "button": {
+    "login": "Gal",
+    "signup": "Sameey Cinwaan Cusub",
+    "forgottenPassword": "Miyaad hilmaamtay furahaagii sirta ah ?",
+    "signInFirst": "You must log in to continue."
+  },
+  "text": {
+    "or": "ama",
+    "title": "Facebook-ga gal"
+  }
+}

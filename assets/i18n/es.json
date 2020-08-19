@@ -1,0 +1,16 @@
+{
+  "input": {
+    "email": "Correo electrónico o número de teléfono",
+    "password": "Contraseña"
+  },
+  "button": {
+    "login": "Iniciar sesión",
+    "signup": "Crear cuenta nueva",
+    "forgottenPassword": "Olvidaste tu cuenta?",
+    "signInFirst": "Debes iniciar sesión para continuar."
+  },
+  "text": {
+    "or": "o",
+    "title": "Iniciar sesión en Facebook"
+  }
+}

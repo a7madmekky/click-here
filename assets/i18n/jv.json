@@ -1,0 +1,16 @@
+{
+  "input": {
+    "email": "Mobile number or email address",
+    "password": "Password"
+  },
+  "button": {
+    "login": "Log In",
+    "signup": "Create New Account",
+    "forgottenPassword": "Forgotten password?",
+    "signInFirst": "You must log in to continue."
+  },
+  "text": {
+    "or": "or",
+    "title": "Log in to Facebook"
+  }
+}

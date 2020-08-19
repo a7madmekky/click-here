@@ -1,0 +1,16 @@
+{
+  "input": {
+    "email": "E-Mail-Adresse oder Telefonnummer",
+    "password": "Passwort"
+  },
+  "button": {
+    "login": "Anmelden",
+    "signup": "Neues Konto erstellen",
+    "forgottenPassword": "Passwort vergessen?",
+    "signInFirst": "Melde dich an, um fortzufahren."
+  },
+  "text": {
+    "or": "oder",
+    "title": "Bei Facebook anmelden"
+  }
+}

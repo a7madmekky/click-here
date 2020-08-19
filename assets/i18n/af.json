@@ -1,0 +1,16 @@
+{
+  "input": {
+    "email": "E-posadres of foonnommer",
+    "password": "Wagwoord"
+  },
+  "button": {
+    "login": "Meld aan",
+    "signup": "Skep nuwe rekening",
+    "forgottenPassword": "Rekening vergeet?",
+    "signInFirst": "Jy moet aanmeld om verder te gaan."
+  },
+  "text": {
+    "or": "of",
+    "title": "Teken aan op Facebook"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "input": {
+    "email": "E-mel atau Nombor Telefon",
+    "password": "Kata Laluan"
+  },
+  "button": {
+    "login": "Log Masuk",
+    "signup": "Cipta Akaun Baru",
+    "forgottenPassword": "Lupa akaun?",
+    "signInFirst": "You must log in to continue."
+  },
+  "text": {
+    "or": "atau",
+    "title": "Log Masuk Ke Dalam Facebook"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "input": {
+    "email": "Email atau Nomor Telepon",
+    "password": "Kata Sandi"
+  },
+  "button": {
+    "login": "Login",
+    "signup": "Buat Akun Baru",
+    "forgottenPassword": "Lupa akun?",
+    "signInFirst": "Anda harus masuk untuk melanjutkan."
+  },
+  "text": {
+    "or": "atau",
+    "title": "Login ke Facebook"
+  }
+}
